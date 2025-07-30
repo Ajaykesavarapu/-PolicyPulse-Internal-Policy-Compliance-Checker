@@ -1,0 +1,14 @@
+{
+  "inbox": [
+    {
+      "id": 1,
+      "subject": "Project X confidential docs",
+      "body": "Please send your contact at john.doe@example.com or 9876543210."
+    },
+    {
+      "id": 2,
+      "subject": "FYI",
+      "body": "The meeting is postponed."
+    }
+  ]
+}

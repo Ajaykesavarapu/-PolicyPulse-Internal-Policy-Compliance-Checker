@@ -1,0 +1,17 @@
+[
+  {
+    "id": "FORBIDDEN_TERM",
+    "pattern": "confidential|secret|proprietary",
+    "description": "Forbidden keyword found"
+  },
+  {
+    "id": "PII_EMAIL",
+    "pattern": "[a-zA-Z0-9_+.-]+@[a-zA-Z0-9.-]+",
+    "description": "Contains possible email address"
+  },
+  {
+    "id": "PII_PHONE",
+    "pattern": "\\b\\d{10}\\b",
+    "description": "Contains possible phone number"
+  }
+]
